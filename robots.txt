@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://shenghaolu.github.io/sitemap.xml
